@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Arum 👋
 
-<!--
-**yuningrumzattayu/yuningrumzattayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend / Full Stack Developer with hands-on experience building web and mobile applications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning: Golang, Docker, CI/CD
+- 💻 Interested in: Backend Development, Full Stack Development
+- 📫 Reach me at: ningrumzattayu@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,postgres,mongodb,docker,aws,tailwind,redux,linux,postman,git,github)](https://skillicons.dev)
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=USERNAME_LO&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LO&layout=compact&theme=tokyonight)
+
+## 📈 Contribution Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_LO&theme=react-dark)](https://github.com/USERNAME_LO)
+
+## 📌 Featured Projects
+- 🧪 **MediLab** – lab test platform with package recommendation
+- 🩸 **VitaFlux** – blood donor mobile application
+- 💊 **Go Medicine** – medicine browsing application
+
+## 🔗 Connect With Me
+[LinkedIn](https://linkedin.com/in/USERNAME_LINKEDIN)
