@@ -9,30 +9,27 @@ Backend / Full Stack Developer with hands-on experience building web and mobile 
 
 ## 🛠️ Tech Stack
 
-### ⚙️ Backend
+### Backend
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs)](https://skillicons.dev)
 
-### 🎨 Frontend
+### Frontend
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
 
-### 🗄️ Database
+### Database
 [![Database](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
 
-### ☁️ Deployment & Infrastructure
-[![Deployment](https://skillicons.dev/icons?i=aws,docker,nginx,linux)](https://skillicons.dev)
+### DevOps & Deployment
+[![DevOps](https://skillicons.dev/icons?i=docker,aws,nginx,linux)](https://skillicons.dev)
 
-### 🔧 Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
-
-### 💻 Languages
-[![Languages](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+### Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=yuningrumzattayu&show_icons=true&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuningrumzattayu&layout=compact&theme=tokyonight)
 
 ## 📈 Contribution Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yuningrumzattayu&theme=react-dark)](https://github.com/USERNAME_LO)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yuningrumzattayu&theme=react-dark)](https://github.com/yuningrumzattayu)
 
 ## 📌 Featured Projects
 - 🧪 **MediLab** – lab test platform with package recommendation
@@ -40,4 +37,4 @@ Backend / Full Stack Developer with hands-on experience building web and mobile 
 - 💊 **Go Medicine** – medicine browsing application
 
 ## 🔗 Connect With Me
-[LinkedIn](https://linkedin.com/in/USERNAME_LINKEDIN)
+[LinkedIn](https://linkedin.com/in/yuningrum-zattayu-mustopo-4679021b9)
