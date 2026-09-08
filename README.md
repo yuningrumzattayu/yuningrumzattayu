@@ -5,7 +5,7 @@ Backend / Full Stack Developer with hands-on experience building web and mobile 
 ## 🚀 About Me
 - 🌱 Currently learning: Golang, Docker, CI/CD
 - 💻 Interested in: Backend Development, Full Stack Development
-- 📫 Reach me at: ningrumzattayu@gmail.com
+- 📫 Reach me at: ningrumzattayu06@gmail.com
 
 ## 🛠️ Tech Stack
 
