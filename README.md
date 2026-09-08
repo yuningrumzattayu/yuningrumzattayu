@@ -7,15 +7,32 @@ Backend / Full Stack Developer with hands-on experience building web and mobile 
 - 💻 Interested in: Backend Development, Full Stack Development
 - 📫 Reach me at: ningrumzattayu@gmail.com
 
-## 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,postgres,mongodb,docker,aws,tailwind,redux,linux,postman,git,github)](https://skillicons.dev)
+## 🛠️ Tech Stack
+
+### ⚙️ Backend
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs)](https://skillicons.dev)
+
+### 🎨 Frontend
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
+
+### 🗄️ Database
+[![Database](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
+
+### ☁️ Deployment & Infrastructure
+[![Deployment](https://skillicons.dev/icons?i=aws,docker,nginx,linux)](https://skillicons.dev)
+
+### 🔧 Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
+
+### 💻 Languages
+[![Languages](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=USERNAME_LO&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LO&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=yuningrumzattayu&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuningrumzattayu&layout=compact&theme=tokyonight)
 
 ## 📈 Contribution Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_LO&theme=react-dark)](https://github.com/USERNAME_LO)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yuningrumzattayu&theme=react-dark)](https://github.com/USERNAME_LO)
 
 ## 📌 Featured Projects
 - 🧪 **MediLab** – lab test platform with package recommendation
