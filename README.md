@@ -24,9 +24,8 @@ Backend / Full Stack Developer with hands-on experience building web and mobile 
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode)](https://skillicons.dev)
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=yuningrumzattayu&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuningrumzattayu&layout=compact&theme=tokyonight)
+## 📊 GitHub Metrics
+![Metrics](/github-metrics.svg)
 
 ## 📈 Contribution Graph
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yuningrumzattayu&theme=react-dark)](https://github.com/yuningrumzattayu)
